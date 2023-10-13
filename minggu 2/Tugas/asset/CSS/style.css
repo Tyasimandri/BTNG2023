@@ -138,8 +138,8 @@ section {
 .sosmed .box a {
     display: flex;
     align-items: center;
-}
-.sosmed .box p {
+    color: black;
+    text-decoration: none;
     font-size: 20px;
 }
 .sosmed img {
