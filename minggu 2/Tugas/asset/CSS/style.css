@@ -114,6 +114,7 @@ section {
 #skill .box li {
     font-size: 20px;
 }
+
 .sosmed .box-container {
     display: flex;
     justify-content: center;
@@ -133,6 +134,10 @@ section {
 }
 .sosmed .box:hover {
     background-color: var(--blue);
+}
+.sosmed .box a {
+    display: flex;
+    align-items: center;
 }
 .sosmed .box p {
     font-size: 20px;
